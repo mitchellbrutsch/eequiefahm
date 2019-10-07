@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seimaijoot.willcohen.net/sitemap.xml
